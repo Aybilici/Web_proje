@@ -1,0 +1,77 @@
+/* CSS Document */
+#sayfa {
+	background-color:#9A9A9A;
+	width:700px;
+	height:1010px;
+	margin:auto;
+	text-align:center;
+	color:white;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:24px;
+	padding-top:15px;
+}
+#header {
+	background-color:#004CFF;
+	width:670px;
+	height:60px;
+	margin:0px 15px 15px 15px;
+	padding-top:40px;
+}
+#top {
+	background-color:red;
+	width:670px;
+	height:35px;
+	margin:0px 15px 15px 15px;
+	padding-top:15px;
+}
+#side {
+	background-color:#046A10;
+	width:125px;
+	height:400px;
+	margin:0px 15px 15px 15px;
+	float:left;
+	padding-top:335px;
+}
+#contents{
+	background-color:#0F8392;
+	width:340px;
+	height:400px;
+	margin:0px 15px 15px 0px;
+	float:left;
+	padding-top:335px;
+}
+#kutu {
+	background-color:#000C70;
+	width:175px;
+	height:735px;
+	float:left;
+}
+#kutu1 {
+	background-color:#FD1026;
+	width:165px;
+	height:140px;
+	margin:10px 5px 5px 5px;
+	padding-top:95px;
+}
+#kutu2 {
+	background-color:#FD1026;
+	height:140px;
+	width:165px;
+	margin:5px 5px 5px 5px;
+	padding-top:95px;
+}
+#kutu3 {
+	background-color:#FD1026;
+	width:165px;
+	height:140px;
+	margin:5px 5px 5px 5px;
+	padding-top:95px;
+}
+#footer {
+	background-color:#141049;
+	width:670px;
+	height:50px;
+	clear:both;
+	margin:0px 15px 0px 15px;
+	padding-top:15px;
+}
